@@ -4,5 +4,6 @@ Conceitos basicos da linguagen PHP
 <li>Saida de Dados</li>
 <li>Declaracao de variaveis</li>
 <li>Operacoes Matematicas</li>
-<Li>Lacos de repeticao</li>
-<Li>Formularios</li>
+<li>Lacos de repeticao</li>
+<li>Formularios</li>
+<li>Representacao de Data e Hora</li>
